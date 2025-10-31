@@ -3,7 +3,7 @@ server:
 
 spring:
   datasource:
-    url: jdbc:mysql://localhost:3306/MinecraftAcademy?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=UTC
+    url: jdbc:mysql://localhost:3306/SERVICE_CURSOS?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=UTC
     username: root
     password: ""
   jpa:
